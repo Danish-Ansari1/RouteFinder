@@ -1,0 +1,22 @@
+from,to,weight
+Patiala,Rajpura,28
+Patiala,Sirhind,26
+Patiala,Sangrur,58
+Patiala,Nabha,25
+Rajpura,Zirakpur,32
+Rajpura,Ambala,35
+Zirakpur,Chandigarh,15
+Zirakpur,Ambala,45
+Chandigarh,Mohali,10
+Chandigarh,Kharar,20
+Mohali,Kharar,12
+Mohali,Sirhind,40
+Sirhind,Ludhiana,50
+Sirhind,Fatehgarh Sahib,12
+Ludhiana,Khanna,35
+Khanna,Sirhind,32
+Nabha,Sangrur,40
+Nabha,Samana,30
+Samana,Patiala,28
+Sangrur,Malerkotla,35
+Malerkotla,Ludhiana,45
