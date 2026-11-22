@@ -81,11 +81,4 @@ Roads are treated as undirected.
 - Distances are **approximate sample data**, not exact road measurements.
 - With only 15 nodes, timing is not meaningful. Benchmarks need a larger graph (planned).
 
-## Future Work
-
-- Benchmark on a 100,000-node graph
-- Load real road data from OpenStreetMap
-- Directed edges for one-way roads
-- Unit tests and CMake build
-- Command-line arguments for source and destination
 
